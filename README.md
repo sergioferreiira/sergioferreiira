@@ -2,7 +2,7 @@
                                                 - 👀 I’m interested in javaScript
                                              - 🌱 I’m currently learning javaScript
                                                   🌍 Living in São Paulo, Brazil.
-                                           🎓student in Analysis and Systems Development                     
+                                           🎓Student of Analysis and Systems Development                     
  <div>
   <a href="https://github.com/sergioferreiira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Steviies&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
