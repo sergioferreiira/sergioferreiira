@@ -3,6 +3,7 @@
                                               🌱 I’m currently learning javaScript
                                                🌍 I'm Living in São Paulo, Brazil.
                                            🎓Analysis and Systems Development Student  */              
+ 
  <div>
   <a href="https://github.com/sergioferreiira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Steviies&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
