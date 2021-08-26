@@ -6,8 +6,8 @@
  
  <div>
   <a href="https://github.com/sergioferreiira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sergioferreiira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergioferreiira&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sergioferreiira&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img height="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergioferreiira&layout=compact&langs_count=jsrgioferreiira7&theme=great-gatsby"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="sergioferreiira-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -28,7 +28,6 @@
   
  
   ![Snake animation](https://github.com/sergioferreiira/sergioferreiira/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
 
 
