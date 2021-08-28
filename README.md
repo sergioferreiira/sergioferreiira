@@ -22,7 +22,7 @@
   ##
  
 <div> 
-  <a href="https://www.instagram.com/0___ferreira___0/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" align="" ></a>
+  <a href="https://www.instagram.com/0___ferreira___0/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-563D7C?style=flat&logo=Instagram&logoColor=white" target="_blank" align="" ></a>
   <a href = "mailto:sdsilveirafilho@yahoo.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"</a>
   <a href="https://www.linkedin.com/in/sergio-ferreira-da-silveira-filho-66ab0a1ba/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-007ACC?style=flat&logo=Linkedin&logoColor=white" target="_blank" align=""></a>
   
