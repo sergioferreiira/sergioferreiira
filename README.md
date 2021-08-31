@@ -28,6 +28,7 @@
   
  
   ![Snake animation](https://github.com/sergioferreiira/sergioferreiira/blob/output/github-contribution-grid-snake.svg)
+    
 </div>
 
 
