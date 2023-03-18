@@ -19,7 +19,6 @@
   ##
  
 <div> 
-  <a href="http://devsergioferreira.com.br" ><img src="https://img.shields.io/badge/Site-http%3A%2F%2Fdevsergioferreira.com.br-informational" target="_blank" align="" ></a>
   <a href = "#"><img src="https://img.shields.io/badge/Email-dev.sergioferreira%40gmail.com-9cf" target="_blank"</a>
   <a href="https://www.linkedin.com/in/sergio-ferreira-da-silveira-filho-66ab0a1ba/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-007ACC?style=flat&logo=Linkedin&logoColor=white" target="_blank" align=""></a>
   
