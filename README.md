@@ -1,8 +1,8 @@
                                                    /* 👋Hi i'm Sergio Ferreira                                                 
-                                                 👀 I’m interested in javaScript
-                                              🌱 I’m currently learning javaScript
+                                                 👀 I’m interested in progamming
+                                              🌱 I’m currently learning front-end
                                                🌍 I'm Living in São Paulo, Brazil.
-                                              🎓Analysis and Systems Development */              
+                                                         🎓Alura courses            
  
  <div>
   <a href="https://github.com/sergioferreiira">
