@@ -1,7 +1,6 @@
-                                                   /* 👋Hi i'm Sergio Ferreira                                                 
-                                                 👀 I’m interested in progamming
-                                              🌱 I’m currently learning front-end
-                                               🌍 I'm Living in São Paulo, Brazil.
+                                                   /* 👋Hi, i'm Sergio Ferreira                                                 
+                                           👀 I found my passion in software development                               
+                                                🌍 I'm Living in São Paulo, Brazil.
                                                          🎓Alura courses            
  
  <div>
