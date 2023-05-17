@@ -1,7 +1,8 @@
                                                    /* 👋Hi, i'm Sergio Ferreira                                                 
                                            👀 I found my passion in software development                               
                                                 🌍 I'm Living in São Paulo, Brazil.
-                                                         🎓Alura courses            
+                                                         🎓Alura courses
+                                                        🎓Learning English  
  
  <div>
   <a href="https://github.com/sergioferreiira">
