@@ -15,7 +15,7 @@
 </p>
 
 - 🌱 I’m currently learning with my curses and my college on Impacta
-- 👯 I’m looking to collaborate on your open source projects
+
 
 <br>
 
@@ -64,7 +64,7 @@
 <h3 align="center" >Connect with me 🤝 </h3>
 
 <p align="center">
-
+/--
  <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a   target="_blank" href="https://www.linkedin.com/in/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" style="margin-left: 10px;" ></a>
@@ -77,6 +77,7 @@
 		<a style="margin-left: 5px;" target="_blank" href="">
 					<img src="https://img.icons8.com/ultraviolet/2x/resume.png" style=" width:37px; height:40px;"></a>
       </div>
+      --/
 
 </p>
 
