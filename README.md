@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/Languages-English-dodgerblue" />
 </p>
 
-- 🌱 I’m currently learning with my curses and my college on Impacta
+- 🌱 I’m currently learning with curses from udemy and others and as well with my college on Impacta Faculdade
 
 
 <br>
