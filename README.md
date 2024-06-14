@@ -26,10 +26,13 @@
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="python"/>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-line.svg" width="40" height="40" alt="csharp"/>
    
+- **front-end**:
+
+
+ - **back-end**:
 
 
 
- 
 
 <br>
 </p>
