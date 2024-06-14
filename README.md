@@ -23,7 +23,6 @@
 
 - **Languages**:
 - 
-    <img src="https://user-images.githubusercontent.com/64439609/212556085-e6f8391a-6f25-43d5-8bfe-818167047cfb.png" width="40" height="40" alt="JS"/>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="python"/>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-line.svg" width="40" height="40" alt="csharp"/>
    
