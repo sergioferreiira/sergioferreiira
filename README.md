@@ -29,8 +29,7 @@
 
 
  - **back-end**:
- - [![My ](https://skillicons.dev/icons?i=py&perline=3)](https://skillicons.dev)
- - [![My ](https://skillicons.dev/icons?i=sqlite&perline=3)](https://skillicons.dev)
+ - [![My ](https://skillicons.dev/icons?i=py&perline=3)](https://skillicons.dev) [![My ](https://skillicons.dev/icons?i=sqlite&perline=3)](https://skillicons.dev)
 
 
 
