@@ -23,12 +23,14 @@
 
 - **Languages**:
 - 
-   [![My ](https://skillicons.dev/icons?i=java&perline=3)](https://skillicons.dev)
+   [![My ](https://skillicons.dev/icons?i=py&perline=3)](https://skillicons.dev)
    
 - **front-end**:
 
 
  - **back-end**:
+ - [![My ](https://skillicons.dev/icons?i=py&perline=3)](https://skillicons.dev)
+ - [![My ](https://skillicons.dev/icons?i=sqlite&perline=3)](https://skillicons.dev)
 
 
 
