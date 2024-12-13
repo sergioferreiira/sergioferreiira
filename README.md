@@ -31,9 +31,9 @@
 
 🎨 Aqui estão alguns dos meus projetos:
 
-1. [Projeto 1](https://github.com/[seu-usuario]/projeto1): Uma descrição emocionante do projeto e como ele mudou o mundo.
-2. [Projeto 2](https://github.com/[seu-usuario]/projeto2): Uma aventura fascinante com código e arte.
-3. [Projeto 3](https://github.com/[seu-usuario]/projeto3): Uma experiência interativa que desafia as leis da física.
+1. [Projeto 1](https://github.com/[seu-usuario]/projeto1): xxxxxxxxxxx.
+2. [Projeto 2](https://github.com/[seu-usuario]/projeto2): xxxxxxxxxxx.
+3. [Projeto 3](https://github.com/[seu-usuario]/projeto3): xxxxxxxxxxx.
 
 
 ## Vamos Conectar!
