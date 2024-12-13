@@ -40,7 +40,32 @@
 
 [![Instagram](https://img.shields.io/badge/-sergio-purple?style=flat-square&logo=Instagram&logoColor=white&link={Link})](https://www.instagram.com/dev.sergioferreira/?next=%2F)
 
-
+<table>
+  <tr>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dark&hide_border=false&include_all_commits=true"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <br />
+      <img
+        align="left"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=iuricode&theme=dark&hide_border=false"
+        alt="Github Stats"
+      />
+    </td>
+  </tr>
+</table>
 ![DiasEllen26 GitHub stats](https://github-readme-stats.vercel.app/api?username=sergioferreiira\&rank_icon=percentile)
 
 
