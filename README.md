@@ -23,7 +23,7 @@
     [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 - Ferramentas e Tecnologias: 
 
-    [![My Skills](https://skillicons.dev/icons?i=git,visualstudiocode,postman)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=git,visualstudio,postman)](https://skillicons.dev)
 - Desenvolvimento Web:
 
     [![My Skills](https://skillicons.dev/icons?i=php,html,css,javascript)](https://skillicons.dev) 
