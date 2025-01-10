@@ -31,7 +31,7 @@
 
 🎨 Aqui estão alguns dos meus projetos:
 
-1. [Projeto 1]: (https://devsergioferreira.site/).
+1. [Projeto 1]: [Meu site](https://devsergioferreira.site/).
 2. [Projeto 2](https://github.com/[seu-usuario]/projeto2): xxxxxxxxxxx.
 3. [Projeto 3](https://github.com/[seu-usuario]/projeto3): xxxxxxxxxxx.
 
