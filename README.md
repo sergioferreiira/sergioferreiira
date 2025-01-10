@@ -23,7 +23,7 @@
     [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 - Ferramentas e Tecnologias: 
 
-    [![My Skills](https://skillicons.dev/icons?i=git,visualstudio,postman)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=vscode,git,visualstudio,postman)](https://skillicons.dev)
 - Desenvolvimento Web:
 
     [![My Skills](https://skillicons.dev/icons?i=php,html,css,javascript)](https://skillicons.dev) 
@@ -31,7 +31,7 @@
 
 🎨 Aqui estão alguns dos meus projetos:
 
-1. [Projeto 1](https://github.com/[seu-usuario]/projeto1): xxxxxxxxxxx.
+1. [Projeto 1]: https://devsergioferreira.site/.
 2. [Projeto 2](https://github.com/[seu-usuario]/projeto2): xxxxxxxxxxx.
 3. [Projeto 3](https://github.com/[seu-usuario]/projeto3): xxxxxxxxxxx.
 
