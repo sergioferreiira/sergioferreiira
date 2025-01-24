@@ -6,7 +6,7 @@
 
 ## Sobre mim
 
-✨ xxxxxxxxxxx ✨
+✨ Solução. Simples assim. ✨
 
 ## Habilidades Tecnológicas
 
