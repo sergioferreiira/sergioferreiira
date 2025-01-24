@@ -10,7 +10,7 @@
 
 ## Habilidades Tecnológicas
 
-💻 Aqui estão algumas das tecnologias que eu domino:
+💻 Tecnologias:
 
 -  Linguagens de Programação: 
 
