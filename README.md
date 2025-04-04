@@ -24,9 +24,7 @@
 - Ferramentas e Tecnologias: 
 
     [![My Skills](https://skillicons.dev/icons?i=vscode,git,visualstudio,postman)](https://skillicons.dev)
-- Desenvolvimento Web:
 
-    [![My Skills](https://skillicons.dev/icons?i=php,html,css,javascript)](https://skillicons.dev) 
 ## Projetos 
 
 🎨 Aqui estão alguns dos meus projetos:
