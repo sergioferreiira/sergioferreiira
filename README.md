@@ -17,7 +17,7 @@
     [![My Skills](https://skillicons.dev/icons?i=php,javascript,python)](https://skillicons.dev)
 - Frameworks e Bibliotecas: 
 
-    [![My Skills](https://skillicons.dev/icons?i=laravel,react,django)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=react,django)](https://skillicons.dev)
 - Dados: 
 
     [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
