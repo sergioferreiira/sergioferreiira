@@ -6,7 +6,7 @@
 
 ## Sobre mim
 
-✨ Solução. Simples assim. ✨
+✨ Gamer, Biker , Curioso. ✨
 
 ## Habilidades Tecnológicas
 
@@ -14,10 +14,10 @@
 
 -  Linguagens de Programação: 
 
-    [![My Skills](https://skillicons.dev/icons?i=php,javascript,python)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=java,javascript,python)](https://skillicons.dev)
 - Frameworks e Bibliotecas: 
 
-    [![My Skills](https://skillicons.dev/icons?i=react,django)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=springbot,react,django)](https://skillicons.dev)
 - Dados: 
 
     [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
